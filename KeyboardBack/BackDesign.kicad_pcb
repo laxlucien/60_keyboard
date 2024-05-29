@@ -85,7 +85,7 @@
 		(uuid "2187e7e4-17de-4f03-b92d-797673bd06a9")
 		(at 125.4046 116.6739 90)
 		(property "Reference" "G***"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.SilkS")
 			(uuid "51c0efb2-e7e9-4445-8de8-12989f84a32b")
 			(effects
@@ -97,7 +97,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 270)
+			(at 0.75 0 -90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f092ab5c-d948-470d-b800-33d9ca013df5")
@@ -1598,7 +1598,7 @@
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "B.SilkS")
-			(uuid "51c0efb2-e7e9-4445-8de8-12989f84a32b")
+			(uuid "dec84c70-42b1-4284-b2da-0b6b3fff7b3e")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -1611,7 +1611,7 @@
 			(at 0.75 0 90)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "f092ab5c-d948-470d-b800-33d9ca013df5")
+			(uuid "2ce1c137-d85f-4811-9856-aa0ef2fe4272")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -3099,7 +3099,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "b86eb533-c6d9-420e-b5e4-47f5e0a7a74a")
+			(uuid "c529c910-5067-46d9-bc78-36bf2c531225")
 		)
 	)
 	(gr_circle

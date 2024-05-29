@@ -46953,6 +46953,18 @@
 		(layer "Edge.Cuts")
 		(uuid "c9e1125a-69f9-4ffe-a2fb-5badf1d7f4aa")
 	)
+	(gr_text "*\n"
+		(at 108.7369 100.0062 0)
+		(layer "B.SilkS")
+		(uuid "64f0b495-431c-4fef-905c-898e4d26261f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Designed By Lucien Lee\n"
 		(at 251.6029 158.74 0)
 		(layer "F.SilkS")
